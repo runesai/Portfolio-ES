@@ -1,6 +1,6 @@
 # Portfolio Dashboard
 
-A modern portfolio dashboard built with Vue.js 3 and Vuetify, featuring authentication, profile management, portfolio showcase, contact form, and blog functionality.
+A modern portfolio dashboard built with Vue.js 3 and Vuetify, featuring authentication, profile management, portfolio showcase, contact form, and blog functionality. Mde by Trishia Sai Mejia, BSCOE 4-4P
 
 ## Features
 
